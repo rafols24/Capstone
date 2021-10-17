@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+.content{
+position: absolute;
+width: 640px;
+height: 90px;
+left: 400px;
+top: 185px;
+justify-items: center;
+justify-content: center;
+}
+.americanSpacesText{
+position: absolute;;
+width: 445px;
+height: 73px;
+left:180px;
+top:-30px;
+
+
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 65px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.carouselContainer{
+    position: relative;
+    font-family: sans-serif;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    top:-350px;
+}
+.itemsWrapper{
+top:100px;
+    position: relative;
+}
+.aboutBackground{
+
+position: relative;;
+width: 1440px;
+height: 420px;
+left: 0px;
+top: 200px;
+
+background: rgba(0, 0, 0, 0.66);
+}
+.aboutText{
+    position: absolute;
+    width: 63.56px;
+    height: 30.42px;
+    left: 163px;
+    top: 100px;
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: justify;
+    
+    color: #FFFFFF;
+}
+.libraryDescription{
+    position: absolute;
+width: 1115px;
+height: 194.72px;
+left: 163px;
+top: 200px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+}
+.Border{
+    position: absolute;
+    width: 61.33px;
+    height: 0px;
+    left: 163px;
+    top: 160px;
+    
+    border: 1px solid #FFFFFF;
+     
+}
+.Link{
+    position: absolute;
+width: 163px;
+height: 46px;
+left: 1120px;
+top: 350px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #0881B5;
+
+}
+.carouselImg{
+    width:100%;
+}
